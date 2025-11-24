@@ -5,7 +5,7 @@ Function:
   --init
   --add(add & add .)
   --commit
-  --rm
+  --rm(rm --cached)
   --reset(soft, hard, default)
   --log
   --push
